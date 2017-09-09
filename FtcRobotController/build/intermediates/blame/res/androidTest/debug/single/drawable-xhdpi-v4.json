@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_robotcontroller.png",
+        "source": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_robotcontroller.png"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_menu.png",
+        "source": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_menu.png"
+    }
+]

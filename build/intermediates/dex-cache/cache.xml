@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/moham/.android/build-cache/0e91d5f88fe28308b89d64d297ce3418670e6f08/output/jars/libs/gson-extras-0.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b30c2655badcc7ce97f84e49f777b7dd154bad57">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/gson-extras-0.2.1_a8bc6d36fa8a7b4d64bdf3cfb32d4d730c7206f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="63096d280a6d0792ddbe5601216c3bc2bb685e8c">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/classes_a9f642457e2036ce6f4af913abdd0f5c19934c9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moham/.android/build-cache/0e91d5f88fe28308b89d64d297ce3418670e6f08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e259d01a014f392930432e85cc1ac9bf807a92df">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/classes_0aaeb999951b452b1e0a7dd53787b97574b1a9e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moham/.android/build-cache/48f5284b79690cb1e28cd79f2972a2f620a9edd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/classes_1bdd6fb49b87ca2c16b789a77608df768d990736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2abba0621a5319232804767218216568263aa37">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/classes_88929c9eee91ea6b0c0cf6e92bdf727f84911ea4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moham/.android/build-cache/0e91d5f88fe28308b89d64d297ce3418670e6f08/output/jars/libs/javac.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c576121aac49e547b39aedfb1daa29782db4166c">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/javac_c67c8a5747a4f70faab54590804f87176d8f9036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moham/.android/build-cache/5764d83223e197d834a2695601f336b8185492b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9da82f9829b6cafb8407989729481220ca06c905">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/classes_00ea2e38735981a81e39b764e47bd8bebe5b4969.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moham/.android/build-cache/0e91d5f88fe28308b89d64d297ce3418670e6f08/output/jars/libs/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e118dd0900e4a18fb928ebb8df2d9fbda78f2b5d">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/gson-2.8.0_d5011928ca85ffd79f8013c9c3adc7ee93f662e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moham/.android/build-cache/47527b04219b6e7ad8c678585e5efaeb569053a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="96cbbea552fe9bf3c56540c7e4912eb5cf72301e">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/classes_f39444543bce3304f47a3f1148d7c91e81cd1056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moham/.android/build-cache/6bcbd390907d407e417f7d6680f29678483ab73e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/classes_3d689ba982e950a4b787425dbc18c9539f48995a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moham/.android/build-cache/0e91d5f88fe28308b89d64d297ce3418670e6f08/output/jars/libs/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a214d3b1b12e72f4fb0d5d5d8d0ec43c96de2b5">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_ddba781e21276b0935d4a5b04a668335725da410.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moham/.android/build-cache/18113cc8987f10450c56da7dda2181ba65cbafe3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75bdc736b17d8f39d246beac357cb3a0e007fcfa">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/classes_a8397d97648617b35fab7f807889cdce44668f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moham/.android/build-cache/0e91d5f88fe28308b89d64d297ce3418670e6f08/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="91b46366eb9f8203073ee2935087c097c888c0ed">
+        <dex dex="/Users/moham/Downloads/ftc_app-master-2/TeamCode/build/intermediates/pre-dexed/debug/Vuforia_1bf0fcc8d51b86175a1b213f5b52b187c73c6314.jar" />
+    </item>
+
+</items>
