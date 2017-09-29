@@ -1,7 +1,11 @@
 [
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/legacy.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/legacy.xml"
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/lynx_module.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/lynx_module.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/red_line.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/red_line.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/digital_devices.xml",
@@ -12,20 +16,16 @@
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/template_info.xml"
     },
     {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/color_list_preference_line_item.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/ceb13b3a11528320ba2395e417b5a62faca7d10f/output/res/layout/color_list_preference_line_item.xml"
+    },
+    {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_configuration.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_ftc_configuration.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/header.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/header.xml"
-    },
-    {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_view_logs.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_view_logs.xml"
-    },
-    {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/button_list.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/button_list.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_lynx_fw_update.xml",
@@ -36,40 +36,64 @@
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/item_list_parent.xml"
     },
     {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/simple_device.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/simple_device.xml"
+    },
+    {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/lynx_module.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/lynx_module.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/simple_device.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/simple_device.xml"
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/header.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/header.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_program_and_manage.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_program_and_manage.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/file_info.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/file_info.xml"
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/servo.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/servo.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/motor_controller_banner.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/motor_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_configuration.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_ftc_configuration.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/color_list_preference_line_item.xml",
         "source": "/Users/moham/.android/build-cache/0e91d5f88fe28308b89d64d297ce3418670e6f08/output/res/layout/color_list_preference_line_item.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/lynx_module_configure_address.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/lynx_module_configure_address.xml"
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/pwm_device.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/pwm_device.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/digital_devices.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/digital_devices.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/lynx_module_configure_address_spin_item.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/lynx_module_configure_address_spin_item.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_config_wifi_direct.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/digital_device.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/digital_device.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_wifi_channel_selector.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_ftc_wifi_channel_selector.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/feedback.xml",
-        "source": "/Users/moham/.android/build-cache/0e91d5f88fe28308b89d64d297ce3418670e6f08/output/res/layout/feedback.xml"
-    },
-    {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_controller.xml",
-        "source": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/bundles/debug/res/layout/activity_ftc_controller.xml"
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_about.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_about.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/red_line.xml",
@@ -80,24 +104,20 @@
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/servo_controller_banner.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/lynx_usb_device.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/lynx_usb_device.xml"
-    },
-    {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/servo_list.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/servo_list.xml"
-    },
-    {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_inputs.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/analog_inputs.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/pwms.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/pwms.xml"
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_swap_usb_devices.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_swap_usb_devices.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/loading_indicator_overlay.xml",
-        "source": "/Users/moham/.android/build-cache/0e91d5f88fe28308b89d64d297ce3418670e6f08/output/res/layout/loading_indicator_overlay.xml"
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_output_device.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/analog_output_device.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/pwms.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/pwms.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/pwm_device.xml",
@@ -108,28 +128,16 @@
         "source": "/Users/moham/.android/build-cache/5764d83223e197d834a2695601f336b8185492b2/output/res/layout/activity_inspection.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/servo.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/servo.xml"
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_blocks.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/d10b9385188b430aa485b5aac7b0726851e66422/output/res/layout/activity_blocks.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_blocks.xml",
         "source": "/Users/moham/.android/build-cache/18113cc8987f10450c56da7dda2181ba65cbafe3/output/res/layout/activity_blocks.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_configure_from_template.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_configure_from_template.xml"
-    },
-    {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_programming_mode.xml",
-        "source": "/Users/moham/.android/build-cache/18113cc8987f10450c56da7dda2181ba65cbafe3/output/res/layout/activity_programming_mode.xml"
-    },
-    {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/lynx_module_configure_address_spin_item.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/lynx_module_configure_address_spin_item.xml"
-    },
-    {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/port_attached_row.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/port_attached_row.xml"
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_wifi_channel_selector.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_ftc_wifi_channel_selector.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/i2c_device.xml",
@@ -140,10 +148,6 @@
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_load.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_about.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_about.xml"
-    },
-    {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/motor_list.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/motor_list.xml"
     },
@@ -152,56 +156,52 @@
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_ftc_wifi_remembered_groups.xml"
     },
     {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_wifi_remembered_groups.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_ftc_wifi_remembered_groups.xml"
+    },
+    {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/motor_controller_banner.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/motor_controller_banner.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/matrix_devices.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/matrix_devices.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/banner_parent.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/banner_parent.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/matrices.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/matrices.xml"
-    },
-    {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/digital_device_lynx.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/digital_device_lynx.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/digital_device.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/digital_device.xml"
-    },
-    {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/motor.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/motor.xml"
-    },
-    {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_output_device.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/analog_output_device.xml"
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_view_logs.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_view_logs.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/matrix_devices.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/matrix_devices.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/info_button.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/info_button.xml"
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_controller.xml",
+        "source": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/bundles/debug/res/layout/activity_ftc_controller.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_generic_settings.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_generic_settings.xml"
     },
     {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_lynx_address_update.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_ftc_lynx_address_update.xml"
-    },
-    {
-        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/gray_line.xml",
-        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/gray_line.xml"
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/servo_controller_banner.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/servo_controller_banner.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/i2cs.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/i2cs.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/loading_indicator_overlay.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/ceb13b3a11528320ba2395e417b5a62faca7d10f/output/res/layout/loading_indicator_overlay.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_outputs.xml",
@@ -212,12 +212,236 @@
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_config_wifi_direct.xml"
     },
     {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/simple_device.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/simple_device.xml"
+    },
+    {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/device_interface_module.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/device_interface_module.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_input_device.xml",
         "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/analog_input_device.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/button_list.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/button_list.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/legacy.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/legacy.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_view_logs.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_view_logs.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/motor.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/motor.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/button_list.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/button_list.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_inspection.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/8ac4adca5bc237219d3e3e921d37b00950d75ecc/output/res/layout/activity_inspection.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/file_info.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/file_info.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/feedback.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/ceb13b3a11528320ba2395e417b5a62faca7d10f/output/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_inputs.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/analog_inputs.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/info_button.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/info_button.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_outputs.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/analog_outputs.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/lynx_module_configure_address.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/lynx_module_configure_address.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/lynx_module_configure_address.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/lynx_module_configure_address.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_program_and_manage.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_program_and_manage.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_input_device.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/analog_input_device.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/feedback.xml",
+        "source": "/Users/moham/.android/build-cache/0e91d5f88fe28308b89d64d297ce3418670e6f08/output/res/layout/feedback.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_controller.xml",
+        "source": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/bundles/debug/res/layout/activity_ftc_controller.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_lynx_fw_update.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_ftc_lynx_fw_update.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/digital_device_lynx.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/digital_device_lynx.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/lynx_usb_device.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/lynx_usb_device.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/servo_list.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/servo_list.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/i2cs.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/i2cs.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/matrices.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/matrices.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_programming_mode.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/d10b9385188b430aa485b5aac7b0726851e66422/output/res/layout/activity_programming_mode.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/loading_indicator_overlay.xml",
+        "source": "/Users/moham/.android/build-cache/0e91d5f88fe28308b89d64d297ce3418670e6f08/output/res/layout/loading_indicator_overlay.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/device_interface_module.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/device_interface_module.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/servo.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/servo.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/banner_parent.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/banner_parent.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_configure_from_template.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_configure_from_template.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_generic_settings.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_generic_settings.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_programming_mode.xml",
+        "source": "/Users/moham/.android/build-cache/18113cc8987f10450c56da7dda2181ba65cbafe3/output/res/layout/activity_programming_mode.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/pwms.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/pwms.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/lynx_module_configure_address_spin_item.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/lynx_module_configure_address_spin_item.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/motor_list.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/motor_list.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/port_attached_row.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/port_attached_row.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/servo_list.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/servo_list.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/gray_line.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/gray_line.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_about.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/legacy.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/legacy.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/matrices.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/matrices.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/item_list_parent.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/item_list_parent.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/lynx_usb_device.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/lynx_usb_device.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_load.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_load.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_configure_from_template.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_configure_from_template.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/digital_device.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/digital_device.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/motor.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/motor.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_lynx_address_update.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/activity_ftc_lynx_address_update.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/analog_output_device.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/analog_output_device.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/info_button.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/info_button.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/i2c_device.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/i2c_device.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/file_info.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/file_info.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_ftc_lynx_address_update.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/activity_ftc_lynx_address_update.xml"
+    },
+    {
+        "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/gray_line.xml",
+        "source": "/Users/moham/.android/build-cache/0fb6fcb054e4223876115c10a1858b9e6ee39ab2/output/res/layout/gray_line.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/template_info.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/template_info.xml"
+    },
+    {
+        "merged": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/port_attached_row.xml",
+        "source": "/Users/HomeFolder/.android/build-cache/88e5b16a1be68cd75e46d9b86c9652638bec3761/output/res/layout/port_attached_row.xml"
     },
     {
         "merged": "/Users/moham/Downloads/ftc_app-master-2/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout/activity_swap_usb_devices.xml",

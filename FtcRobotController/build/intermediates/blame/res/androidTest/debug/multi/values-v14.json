@@ -24,5 +24,31 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "/Users/HomeFolder/Documents/GitHub/5795RelicRecovery/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/HomeFolder/.android/build-cache/ceb13b3a11528320ba2395e417b5a62faca7d10f/output/res/values-v14/values-v14.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 201
+                    }
+                }
+            }
+        ]
     }
 ]
